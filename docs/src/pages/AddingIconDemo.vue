@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Adding an icon to your dropzone</h1>
+    <h1>Abibausdasdasde</h1>
     <p v-html="marked(description)"></p>
     <vue-dropzone ref="myVueDropzone" id="dropzone" :options="dropzoneOptions">
     </vue-dropzone>
